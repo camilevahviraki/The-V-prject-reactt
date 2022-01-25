@@ -1,0 +1,9 @@
+.col-6{
+    background-color: rgba(154, 221, 128,0.4);
+    border-radius: 5px;
+    border: solid black 1px;
+    box-shadow: 3px;
+    height: 100px;
+    align-items: center;
+    width: 500px;
+}
